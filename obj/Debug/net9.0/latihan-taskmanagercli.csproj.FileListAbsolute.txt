@@ -1,0 +1,15 @@
+D:\Paradaya\latihan-taskmanagercli\bin\Debug\net9.0\latihan-taskmanagercli.exe
+D:\Paradaya\latihan-taskmanagercli\bin\Debug\net9.0\latihan-taskmanagercli.deps.json
+D:\Paradaya\latihan-taskmanagercli\bin\Debug\net9.0\latihan-taskmanagercli.runtimeconfig.json
+D:\Paradaya\latihan-taskmanagercli\bin\Debug\net9.0\latihan-taskmanagercli.dll
+D:\Paradaya\latihan-taskmanagercli\bin\Debug\net9.0\latihan-taskmanagercli.pdb
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.AssemblyInfoInputs.cache
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.AssemblyInfo.cs
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.csproj.CoreCompileInputs.cache
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.sourcelink.json
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.dll
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\refint\latihan-taskmanagercli.dll
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.pdb
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\latihan-taskmanagercli.genruntimeconfig.cache
+D:\Paradaya\latihan-taskmanagercli\obj\Debug\net9.0\ref\latihan-taskmanagercli.dll
